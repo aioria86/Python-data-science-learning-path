@@ -20,8 +20,8 @@ Thumbs.db
 .vscode/
 
 # Data
-data/raw/*
-data/processed/*
+#data/raw/*
+#data/processed/*
 
 # Private notes
 private_notes/
